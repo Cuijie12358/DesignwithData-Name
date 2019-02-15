@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## This is a blog marking down what we have done so far.
 
-You can use the [editor on GitHub](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) to maintain and preview the source code for your website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Week 1 : Friday, 25 Jan 2019 - DI Studio
+We decided on three topic as the triangle for the group project:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Social interaction : especially between performers and audience from different country    
+Data exploration : see the insight from past festival data; visualize artists data to choose    
+Performance rating : how to know which performance is great .   
 
 # Header 1
 ## Header 2
