@@ -9,6 +9,8 @@ Social interaction : especially between performers and audience from different c
 Data exploration : see the insight from past festival data; visualize artists data to choose    
 Performance rating : how to know which performance is great .   
 
+![baidu](http://www.baidu.com/img/bdlogo.gif "logo")
+
 # Header 1
 ## Header 2
 ### Header 3
