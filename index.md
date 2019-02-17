@@ -2,6 +2,22 @@
 
 You can use the [editor on GitHub](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) to maintain and preview the source code for your website.
 
+Organizers:   
+- [Jie Cui](https://github.com/Cuijie12358/)
+- [Bramianha Yudana](https://github.com/ianz88)
+
+The website is based on github.io and if you have any suggerstion, you can add issue on the [github link](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) or email [me](cuijie12358@outlook.com).
+
+## Timetable.
+|What to do|When to do|
+|----|----|
+|Brainstorming and research|week1-week3|
+|Make prototype for the project|week4-week5|
+|Build map|week6-week7|
+|Build tree |week7-week8|
+|Test demo |week8-week9|
+|final product for the whole system|week9-week10|
+
 ### Week 1 : Friday, 25 Jan 2019 - DI Studio
 We decided on three topic as the triangle for the group project:
 
