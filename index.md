@@ -11,6 +11,24 @@ Performance rating : how to know which performance is great .
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "logo")
 
+### Week 2 : Friday, 1 Feb 2019 - DI Studio
+Discussing about possible direction for the project and create out first kanban board. The topic is around visualizing the movement of crowd in the city center area on the festival. We are thinking of showing the location of street performance and the density of the crowds around those areas and projecting the visual information onto 3d map model of the city center.
+
+Possible way to do that:
+* Create iot device that can detect wifi activity of the crowds and sending it to server
+* Access the data from the server and show it as a projection mapping
+* Build 3d model of the city center of edinburgh
+* Collect the location data of the street performers
+* Build web page to access the visualization data
+
+### Week 3 : Friday, 8 Feb 2019 - DI Studio
+
+
+### Week 4 : Friday, 15 Feb 2019 - DI Studio
+
+
+### Week 4 : Sunday, 17 Feb 2019 - DI Studio
+
 # Header 1
 ## Header 2
 ### Header 3
