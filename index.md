@@ -43,6 +43,13 @@ Possible way to do that:
 
 ### Week 4 : Friday, 15 Feb 2019 - DI Studio
 We want to solve the problem in this question.
+![picture1](pictures/IMG_20190217_123545.jpg)
+![picture2](pictures/IMG_20190217_123551.jpg)
+![picture3](pictures/IMG_20190217_123632.jpg)
+![picture4](pictures/IMG_20190217_123756.jpg)
+![picture5](pictures/IMG_20190217_123809.jpg)
+![picture6](pictures/IMG_20190217_123835.jpg)
+![picture5](pictures/IMG_20190217_123920.jpg)
 
 
 
