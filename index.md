@@ -9,6 +9,7 @@ Organizers:
 The website is based on github.io and if you have any suggerstion, you can add issue on the [github link](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) or email [me](cuijie12358@outlook.com).
 
 ## Timetable.
+
 |What to do|When to do|
 |----|----|
 |Brainstorming and research|week1-week3|
@@ -41,6 +42,8 @@ Possible way to do that:
 
 
 ### Week 4 : Friday, 15 Feb 2019 - DI Studio
+We want to solve the problem in this question.
+
 
 
 ### Week 4 : Sunday, 17 Feb 2019 - DI Studio
