@@ -18,15 +18,7 @@ Numbers:
 
 
 ## Timetable.
-
-|What to do|When to do|
-|----|----|
-|Brainstorming and research|week1-week3|
-|Make prototype for the project|week4-week5|
-|Build map|week6-week7|
-|Build tree |week7-week8|
-|Test demo |week8-week9|
-|final product for the whole system|week9-week10|
+![timetable](pictures/timetable.png)
 
 ### Week 1 : Friday, 25 Jan 2019 - DI Studio
 We decided on three topic as the triangle for the group project:   
@@ -59,19 +51,19 @@ We imagine we are going to see the street performances, what things are we going
 During the meeting, we are suggested to think about our audience at first.
 ![meeting](pictures/Meeting_question.jpg)
 
-We also make a brainstorm to think about different ideas such as: \textbf{emoji_map} and use it as the first prototype:
+We also make a brainstorm to think about different ideas such as: **emoji_map** and use it as the first prototype:
 ![emoji_map](pictures/Thoughts_of_emoji_map.jpg)
 
-We use the \textbf{tree} idea later on:   
+We use the **tree** idea later on:   
 ![tree](pictures/Tree_thought.jpg)
 
 ### Week 4 : Friday, 15 Feb 2019 - DI Studio
-We focus on the \textbf{tree} idea and discuss about the detail things in the meeting.   
+We focus on the **tree** idea and discuss about the detail things in the meeting.   
 We have the idea of showing all the location of street performers on a map and put in the center of our installation for users to explore. We want to give information about which performers are interesting by showing its popularity through a visual cue.
 
 The initial idea is to make a tree with hanging fruit to indicate the popularity based on the height and color of the fruits. The audience of the installation could see the image of video of the performers and vote for the performance that they like.
-![tree_image1](pictures/tree_pic1.jpg)
-![tree_image1](pictures/tree_pic2.jpg)
+
+![tree_image1](pictures/tree_pic1.jpg)![tree_image1](pictures/tree_pic2.jpg)
 
 So we would have two part for the  installation:
 * Data collection part to get the rating/popularity of the street performers
@@ -83,7 +75,7 @@ The detailed equipments haven't been decided:
 
 
 ### Week 5 : Sunday, 24 Feb 2019 - DI Studio
-We have notived that the techical part of the tree idea could be unrealistic and if the tree is much taller than a person we do will have no space to make installation, so we move to a new \textbf{projection} idea.
+We have notived that the techical part of the tree idea could be unrealistic and if the tree is much taller than a person we do will have no space to make installation, so we move to a new **projection** idea.
 ![projection](pictures/Thoughts_of_projection.jpg)
 
 ### Week 6 : Friday, 1st March 2019
@@ -114,7 +106,7 @@ The main interaction in the installation (through gesture):
 - Vote for the show (like it/ want to see it)
 
 The installation layout design:   
-![layout](pictures/projection_installation.png)
+![layout](pictures/projection_installation.png)   
 
 The proposed gesture interaction module:
 ![gesture](pictures/interaction_process.png)
@@ -122,6 +114,50 @@ The proposed gesture interaction module:
 
 The proposed visual element to differentiate between show categories:   
 ![building](pictures/building_structure.png)
+
+### Week 7 : 5th March 2019
+Designing the experience:
+![process1](pictures/interaction_p2.png)
+![process2](pictures/interaction_p3.png)
+
+
+### Week 7 : 9th March 2019
+Making Prototype:
+![map](pictures/map.png)
+![layout_constructure](pictures/layout_structure.png)
+
+
+### Week 8 : 15th March 2019
+Build the demo:     
+Hardware testing:    
+![our_map](pictures/our_map.png)
+![prototype_map](pictures/map_prototype.png)
+![prototype_testing](pictures/first_testing.png)
+
+### Week 9 : 19th-22nd March 2019 - Demo
+Photos taken from the demo:    
+![demo_test1](pictures/demo_testing1.png)
+![demo_test2](pictures/demo_testing2.png)
+
+### Week 10 : 29th March 2019
+We design the outlook of our prject and build 3D models of the buildings.
+![desgin1](pictures/designing_outlook.png)
+![design2](pictures/3d-models.png)   
+Design for the box:   
+![box](pictures/box_design.png).  
+
+Way to interact with the installation:
+![interaction1](pictures/final_interaction1.png)
+![interaction2](pictures/final_interaction2.png)
+
+Day-1:
+![demo_1](pictures/final_demo1.png)![demo_2](picuters/final_box.png)
+
+### Week 11 : 1st April 2019 - the Exhibition
+![final_show1](pictures/final_show.png)
+![final_show2](pictures/final_show2.png)
+
+
 
 
 
