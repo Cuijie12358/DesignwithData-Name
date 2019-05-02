@@ -64,7 +64,7 @@ We have the idea of showing all the location of street performers on a map and p
 The initial idea is to make a tree with hanging fruit to indicate the popularity based on the height and color of the fruits. The audience of the installation could see the image of video of the performers and vote for the performance that they like.
 
 <!--![tree_image1](pictures/tree_pic1.jpg)![tree_image1](pictures/tree_pic2.jpg)-->
-<div align="center">
+<div align="left">
 <img src="pictures/tree_pic1.jpg" height="300px" alt="tree_image1" >
 <img src="pictures/tree_pic2.jpg" height="300px" alt="tree_image2" >
 </div>
@@ -120,7 +120,7 @@ The proposed visual element to differentiate between show categories:
 
 ### Week 7 : 5th March 2019
 Designing the interaction:   
-<div align="center">
+<div align="left">
 <img src="pictures/interaction_p2.png" height="300px" alt="process1" >
 <img src="pictures/interaction_p3.png" height="300px" alt="process2" >
 </div>
@@ -152,16 +152,16 @@ Design for the box:
 ![box](pictures/box_design.png).  
 
 Way to interact with the installation:    
-<div align="center">
+<div align="left">
 <img src="pictures/final_interaction1.png" height="300px" alt="interaction1" >
 <img src="pictures/final_interaction2.png" height="300px" alt="interaction2" >
 </div>
 
 
 Day-1:    
-<div align="center">
+<div align="left">
 <img src="pictures/final_demo1.png" height="300px" alt="demo1" >
-<img src="ppictuers/final_box.png" height="300px" alt="demo2" >
+<img src="pictuers/final_box.png" height="300px" alt="demo2" >
 </div>
 
 ### Week 11 : 1st April 2019 - the Exhibition
