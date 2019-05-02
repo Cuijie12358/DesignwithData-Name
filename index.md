@@ -126,9 +126,10 @@ Designing the interaction:
 
 ### Week 7 : 9th March 2019
 Making Prototype:    
-![map](pictures/map.png)
-![layout_constructure](pictures/layout_structure.png)
-
+<div align="left">
+<img src="pictures/map.png" height="300px" alt="map" >
+<img src="pictures/layout_structure.png" height="300px" alt="layout_constructure" >
+</div>
 
 ### Week 8 : 15th March 2019
 Build the demo:     
@@ -163,8 +164,9 @@ Day-1:
 </div>
 
 ### Week 11 : 1st April 2019 - the Exhibition
-![final_show1](pictures/final_show.png)
-![final_show2](pictures/final_show2.png)
+<img src="pictures/final_show.png" height="300px" alt="final_show1" >
+<img src="pictures/final_show2.png" height="300px" alt="final_show2" >
+
 
 
 
