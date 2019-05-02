@@ -1,6 +1,10 @@
 # Welcome!
 ## This is a blog marking down what we have done by step to ge the final show :)
 
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=445154960&type=2&auto=0&width=320&height=66"
+type="application/x-shockwave-flash"></object>
+
+
 You can use the [editor on GitHub](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) to maintain and preview the source code for your website.
 
 Organizers:   
