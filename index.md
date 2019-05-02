@@ -63,7 +63,11 @@ We have the idea of showing all the location of street performers on a map and p
 
 The initial idea is to make a tree with hanging fruit to indicate the popularity based on the height and color of the fruits. The audience of the installation could see the image of video of the performers and vote for the performance that they like.
 
-![tree_image1](pictures/tree_pic1.jpg)![tree_image1](pictures/tree_pic2.jpg)
+<!--![tree_image1](pictures/tree_pic1.jpg)![tree_image1](pictures/tree_pic2.jpg)-->
+<div align="center">
+<img src="pictures/tree_pic1.jpg" height="300px" alt="tree_image1" >
+<img src="pictures/tree_pic2.jpg" height="300px" alt="tree_image2" >
+</div>
 
 So we would have two part for the  installation:
 * Data collection part to get the rating/popularity of the street performers
@@ -106,23 +110,24 @@ The main interaction in the installation (through gesture):
 - Vote for the show (like it/ want to see it)
 
 The installation layout design:   
-![layout](pictures/projection_installation.png)   
-
-The proposed gesture interaction module:
+![layout](pictures/projection_installation.png) .  
+The proposed gesture interaction module:   
 ![gesture](pictures/interaction_process.png)
-![led](pictures/projection_np.png)
+![led](pictures/projection_up.png)
 
 The proposed visual element to differentiate between show categories:   
 ![building](pictures/building_structure.png)
 
 ### Week 7 : 5th March 2019
-Designing the experience:
-![process1](pictures/interaction_p2.png)
-![process2](pictures/interaction_p3.png)
+Designing the interaction:   
+<div align="center">
+<img src="pictures/interaction_p2.png" height="300px" alt="process1" >
+<img src="pictures/interaction_p3.png" height="300px" alt="process2" >
+</div>
 
 
 ### Week 7 : 9th March 2019
-Making Prototype:
+Making Prototype:    
 ![map](pictures/map.png)
 ![layout_constructure](pictures/layout_structure.png)
 
