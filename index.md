@@ -1,4 +1,4 @@
-## This is a blog marking down what we have done so far.
+# This is a blog marking down what we have done by step to ge the final show :)
 
 You can use the [editor on GitHub](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) to maintain and preview the source code for your website.
 
@@ -7,6 +7,14 @@ Organizers:
 - [Bramianha Yudana](https://github.com/ianz88)
 
 The website is based on github.io and if you have any suggerstion, you can add issue on the [github link](https://github.com/Cuijie12358/DesignwithData.github.io/edit/master/index.md) or email [me](cuijie12358@outlook.com).
+
+Numbers:
+- Bramianha Yudana
+- Yixin Liu
+- Xinyi Wang
+- Xiaoxin Zhang
+- Jie Cui
+
 
 ## Timetable.
 
