@@ -159,7 +159,7 @@ Way to interact with the installation:
 Day-1:    
 <div align="left">
 <img src="pictures/final_demo1.png" height="300px" alt="demo1" >
-<img src="pictuers/final_box.png" height="300px" alt="demo2" >
+<img src="pictures/final_box.png" height="300px" alt="demo2" >
 </div>
 
 ### Week 11 : 1st April 2019 - the Exhibition
