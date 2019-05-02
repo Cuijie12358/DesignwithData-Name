@@ -120,10 +120,8 @@ The proposed visual element to differentiate between show categories:
 
 ### Week 7 : 5th March 2019
 Designing the interaction:   
-<div align="left">
-<img src="pictures/interaction_p2.png" height="300px" alt="process1" >
 <img src="pictures/interaction_p3.png" height="300px" alt="process2" >
-</div>
+
 
 
 ### Week 7 : 9th March 2019
