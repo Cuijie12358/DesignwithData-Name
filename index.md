@@ -34,7 +34,7 @@ Social interaction : especially between performers and audience from different c
 Data exploration : see the insight from past festival data; visualize artists data to choose    
 Performance rating : how to know which performance is great .   
 
-![baidu](http://www.baidu.com/img/bdlogo.gif "logo")
+![triangle](pictures/triangle.jpg)
 
 ### Week 2 : Friday, 1 Feb 2019 - DI Studio
 Discussing about possible direction for the project and create out first kanban board. The topic is around visualizing the movement of crowd in the city center area on the festival. We are thinking of showing the location of street performance and the density of the crowds around those areas and projecting the visual information onto 3d map model of the city center.
