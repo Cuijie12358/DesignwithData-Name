@@ -47,18 +47,24 @@ Possible way to do that:
 * Collect the location data of the street performers
 * Build web page to access the visualization data
 
+Here is our to-do list:
+![TODO](pictures/TODOlist.jpg)
+
 ### Week 3 : Friday, 8 Feb 2019 - DI Studio
+In this week we are thinking of making something to show the experience of a person going to the festival.
+We imagine we are going to see the street performances, what things are we going to do:
+![out_door](pictures/Find_questions_in_outdoor_performance.jpg)
+
+During the meeting, we are suggested to think about our audience at first.
+![meeting](pictures/Meeting_question.jpg)
+
+We also make a brainstorm to think about different ideas such as: \textb{emoji_map} and use it as the first prototype:
+![emoji_map](pictures/Thoughts_of_emoji_map.jpg)
 
 
 ### Week 4 : Friday, 15 Feb 2019 - DI Studio
-We want to solve the problem in this question.
-![picture1](pictures/IMG_20190217_123545.jpg)
-![picture2](pictures/IMG_20190217_123551.jpg)
-![picture3](pictures/IMG_20190217_123632.jpg)
-![picture4](pictures/IMG_20190217_123756.jpg)
-![picture5](pictures/IMG_20190217_123809.jpg)
-![picture6](pictures/IMG_20190217_123835.jpg)
-![picture5](pictures/IMG_20190217_123920.jpg)
+We want to solve the problem in this question. 
+
 
 
 
